@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mern-chat-frontend/static/css/main.aee7e788.css",
-    "main.js": "/mern-chat-frontend/static/js/main.67b41169.js",
+    "main.js": "/mern-chat-frontend/static/js/main.dac9b002.js",
     "index.html": "/mern-chat-frontend/index.html",
     "main.aee7e788.css.map": "/mern-chat-frontend/static/css/main.aee7e788.css.map",
-    "main.67b41169.js.map": "/mern-chat-frontend/static/js/main.67b41169.js.map"
+    "main.dac9b002.js.map": "/mern-chat-frontend/static/js/main.dac9b002.js.map"
   },
   "entrypoints": [
     "static/css/main.aee7e788.css",
-    "static/js/main.67b41169.js"
+    "static/js/main.dac9b002.js"
   ]
 }
